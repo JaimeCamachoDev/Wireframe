@@ -15,12 +15,16 @@ _**Wireframe shader for Unity 6**_
 
 ## Contenido
 
-* **VFX Graph:** `Kings-Valley_HologramNew`
-* **Shader Graph:** `HoloTransparent`, `HoloTransparent Bordes`, `Platform`, `Pyramid_Interior_Shader`
-* **Shaders HLSL:** `SobekWireframeShader`, `WireframeShader`
-* **Scripts:** `BuoyMotion`
-* **Prefabs:** `GlowingEdges`, `KV-Holograms-New`
-* **Escenas:** `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Hologram** | — | 2 | — | — | — | — |
+| **Platform** | — | 1 | — | — | — | — |
+| **Sobek** | — | — | 1 | — | — | — |
+| **WireFrame** | 1 | 1 | 1 | 1 | 2 | 3 |
+
+**Escenas de demostración:** `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
